@@ -1,0 +1,36 @@
+html{ 
+    font-family: arial;
+    font-size: 16px;
+}
+
+header, nav, footer{ 
+    /*height: 100px;*/
+    background-color: #e1f5eb;
+}
+section { 
+    height: auto;
+}
+a { 
+    color: #006666;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+nav {
+    /*background: #712cf9;*/
+}
+#logo { 
+    width: 70px; 
+    height: 70px;
+}
+.form table{
+    width: 50%;
+}
+
+.order thead{
+    background-color:#e1eee7 ; 
+    color: #006666;}
+
+.order td{ 
+    color:black;
+    width: 15%;
+}
